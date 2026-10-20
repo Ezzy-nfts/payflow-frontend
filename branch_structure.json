@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-23-feat-error-boundary-and-not-found-page",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-23-feat-error-boundary-and-not-found-page": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-23-feat-error-boundary-and-not-found-page",
+    "origin"
+  ]
+}
